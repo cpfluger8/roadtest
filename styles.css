@@ -1,0 +1,16 @@
+body { 
+    font-family: 'Dosis', sans-serif; 
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color:darkblue;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p{
+    color: azure;
+    font-size: x-large;
+    text-align: center;
+}
